@@ -2,7 +2,7 @@
 
 YOLO stads for "You Only Look Once".
 YOLO is extremely fast real time object detection algorithm.This algorithm can detect multiple objects at the same time in  a given image.
-This predicts all the objects present in the image and video in one gousing Open CV.
+This predicts all the objects present in the image and video in one go using Open CV.
 
 ## Screenshots:
 
